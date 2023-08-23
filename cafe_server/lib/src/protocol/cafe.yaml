@@ -1,0 +1,10 @@
+### Holds a note with a text written by the user.
+class: Cafe
+table: cafe
+fields:
+  ### The contents of the note.
+  url: String
+  name: String
+  sub: String
+  harga: String
+  jenis: String
